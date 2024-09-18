@@ -46,13 +46,11 @@ To get a local copy of this project up and running, follow these steps:
    ```bash
    git clone https://github.com/issa-char/shopWave-repo.git
    cd your-ecommerce-repo
-
-  cd backend
-  npm install
-  MONGODB_URI=your_mongodb_connection_string //create .env file in the backend dir and add your MongoDB conn string
-
-  node server.js // start the server
-  ```
+   cd backend
+   npm install
+   MONGODB_URI=your_mongodb_connection_string //create .env file in the backend dir and add your MongoDB conn string
+   node server.js // start the server
+   ```
 
 ## Usage
 
